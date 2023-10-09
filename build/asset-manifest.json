@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SimbuM/SimbuM_Min5.github.io/movie/static/css/main.9daa43ec.css",
+    "main.js": "/SimbuM/SimbuM_Min5.github.io/movie/static/js/main.cca8ac96.js",
+    "static/js/787.e253fc0a.chunk.js": "/SimbuM/SimbuM_Min5.github.io/movie/static/js/787.e253fc0a.chunk.js",
+    "static/media/1.jpg": "/SimbuM/SimbuM_Min5.github.io/movie/static/media/1.22a759c79a97e81e7f0b.jpg",
+    "index.html": "/SimbuM/SimbuM_Min5.github.io/movie/index.html",
+    "main.9daa43ec.css.map": "/SimbuM/SimbuM_Min5.github.io/movie/static/css/main.9daa43ec.css.map",
+    "main.cca8ac96.js.map": "/SimbuM/SimbuM_Min5.github.io/movie/static/js/main.cca8ac96.js.map",
+    "787.e253fc0a.chunk.js.map": "/SimbuM/SimbuM_Min5.github.io/movie/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9daa43ec.css",
+    "static/js/main.cca8ac96.js"
+  ]
+}
